@@ -13,4 +13,4 @@ npm-debug.log*
 
 # 📦 Ігноруємо вихідні файли після зборки (якщо є)
 dist/
-build/
+build/serviceAccountKey.json
